@@ -1,3 +1,4 @@
+#搬瓦工主机选配+Shadowsocks新手搭建教程
 首先分享一篇深度好文：[**个人翻墙行为是否违法？**](https://mp.weixin.qq.com/s/cndzW_oXClkSdwOtam0qUw)（[防删PDF备份](https://www.dropbox.com/s/go8dynv54dwddup/%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8vpn%E7%BF%BB%E5%A2%99%E6%98%AF%E5%90%A6%E8%BF%9D%E6%B3%95%EF%BC%9F%E2%80%94%E2%80%94%E5%9F%BA%E4%BA%8E%E8%A7%84%E8%8C%83%E6%80%A7%E6%B3%95%E5%BE%8B%E6%96%87%E4%BB%B6%E3%80%81%E6%A1%88%E4%BE%8B%E4%BB%A5%E5%8F%8A%E7%9B%B8%E5%85%B3%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E7%9A%84%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A8%E8%AE%BA.pdf?dl=1)）该文章非常翔实，从一个法律工作者和计算机网络专家的双重视角讨论了“翻墙”这个行为是否违法。原文一万余字，加上前后的系列更是连篇累牍。是我看到在翻墙涉法问题这个领域中研究最为深入的，非常值得每一个翻墙的朋友都细细研读一遍。
 
 ![](https://miro.medium.com/max/600/1*KKCzT3OamDkeT2lSleiySw.png)
